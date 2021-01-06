@@ -21,7 +21,7 @@ This hands-on workshop focuses on **Oracle Machine Learning for Python (OML4Py)*
 
 Alternatively, you can follow the labs on this repo :
 
-- [About this lab](./about-this-lab/content.md)
+- [About this lab](./about-this-workshop/content.md)
 - [Setup the Lab Environment](./lab-setup/content.md)
 - [Getting Started with OML4Py](./intro-oml4py/content.md)
 - [Data Preparation and Exploration](./data-preparation-exploration/content.md)
